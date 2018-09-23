@@ -1,0 +1,8 @@
+blog url of this tuts
+
+https://www.webslesson.info/2018/09/simple-way-to-sending-an-email-in-laravel.html
+
+
+vieo url
+
+https://www.youtube.com/watch?v=rn0BHdqrock&feature=em-uploademail
